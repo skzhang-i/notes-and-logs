@@ -1,7 +1,7 @@
 # How to change the language of java outputs in the Command Prompt? 
 
 The language of my Windows OS is Chinese. When I run java in the CMD, the console gives Chinese infomation. To change the language of outputs to English, use this argument: 
-`-J-Duser.language=en' 
+`-J-Duser.language=en` 
 Just like this, 
 ```
 javac -J-Duser.language=en
